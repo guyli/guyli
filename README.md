@@ -5,7 +5,7 @@ entrepreneur, visioner alongside a picture of Guy in profile">
 
 ## Who I am you ask 😎 well 
 For the last six years I worked on building web front ends. I plan and build meaningful software platforms, immersing myself in complex projects where I can wake up thinking about the day’s challenge and go to sleep working out the latest puzzle in my head. Holding a B.S. and a MCSD certification, I lead the creation of meaningful, intuitive web tools.
-As a senior front-end engineer at chewy.com I plan, lead and build Javascript based tools in React and Redux. I primarily work on the frontend design, implementation, user experience and complex applications using Javascript (ES6). The tools I create are used by our internal customers and are helping to master data systems for millions of pet lovers daily on <a href="https://www.chewy.com">chewy.com</a>.
+As a senior front-end engineer at chewy.com I plan, lead and build Javascript based tools in React and Redux. I primarily work on the frontend design, implementation, user experience and complex applications using Javascript (ES6). The tools I create are used by our internal customers and are helping to master data systems for millions of pet lovers daily on <a href="https://www.chewy.com" target="_blank">chewy.com</a>.
 
 ## My skill set 🤹
 - **Web Languages:** HTML, CSS (Sass & LESS), Javascript, ES6, Typescript
@@ -23,6 +23,6 @@ As a senior front-end engineer at chewy.com I plan, lead and build Javascript ba
 - Systems architecture and design, focusing on the UX/UI
 - Managed transformation of locally hosted monolithic applications to services model hosted in AWS cloud
 
-Please read more at my 🕸 <a href="http://www.guylivne.com">site</a>.
+Please read more at my 🕸 <a href="http://www.guylivne.com" target="_blank">site</a>.
 
 To reach me, ✉ me at my <a href="mailto:guy@guylivne.com">Email</a>.
