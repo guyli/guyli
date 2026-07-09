@@ -51,11 +51,3 @@ I am committed to giving back through educational community engagement, spending
 *   👔 Let's talk tech leadership and product engineering strategy on [LinkedIn](https://www.linkedin.com/in/guy-livne)
 *   ✉️ Reach out directly at [guylivne5@gmail.com](mailto:guylivne5@gmail.com)
 
----
-
-### 📊 My GitHub Ecosystem Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guylivne&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Guy Livne GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guylivne&theme=dark&hide_border=true" alt="Guy Livne Streak Stats" width="48%" />
-</div>
