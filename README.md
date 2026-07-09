@@ -1,28 +1,42 @@
-# Hi there, I'm Guy 👋
+# Hi there, I'm Guy Livne! 🚀
 
-<img src="https://raw.githubusercontent.com/guyli/guyli/master/gh-banner.png" alt="banner that says Guy Livne - software engineer, designer, developer,
-entrepreneur, visioner alongside a picture of Guy in profile">
+An engineering leader who thrives at the intersection of product strategy, customer experience, and high-scale web architecture. Over the last decade, I have specialized in transforming rigid legacy monoliths into cloud-native microservice architectures and delivering high-impact, enterprise-grade AI platforms.
 
-## Who I am you ask 😎 well 
-For the last six years I worked on building web front ends. I plan and build meaningful software platforms, immersing myself in complex projects where I can wake up thinking about the day’s challenge and go to sleep working out the latest puzzle in my head. Holding a B.S. and a MCSD certification, I lead the creation of meaningful, intuitive web tools.
-As a senior front-end engineer at chewy.com I plan, lead and build Javascript based tools in React and Redux. I primarily work on the frontend design, implementation, user experience and complex applications using Javascript (ES6). The tools I create are used by our internal customers and are helping to master data systems for millions of pet lovers daily on <a href="https://www.chewy.com" target="_blank">chewy.com</a>.
+Currently, I scale cross-functional engineering teams and pioneer AI-driven web applications at the enterprise tier.
 
-## My skill set 🤹
-- **Web Languages:** HTML, CSS (Sass & LESS), Javascript, ES6, Typescript
-- **General Languages:** C, Java, Python
-- **Frameworks:** React, Flux, Redux, Vue, Vuex, Angular, NgRx, Backbone
-- **Web Dev tools:** Webpack, babel
-- **Version control:** Git (github), SVN
-- **Servers:** Node.js, Apache
-- **Services:** Spring Boot, Kinesis, AWS lambda, AWS Fargate
-- **Familiarity with:** Go, Kotlin, PHP, Scala, AssemblyScript
+---
 
-## Technical experience and more 👨‍💻
-- Contracting for design and maintaining platforms for enterprise-scale databases in SQL, Oracle, and DB2, Mongo, Postgres, RDS, and Dynamo
-- Developing custom applications/ website development using Javascript Backbone, Angular, React; manage implementation of infrastructure using Java, Spring Boot, ASP.Net 2.0/1.0, C++, AWS Containers;
-- Systems architecture and design, focusing on the UX/UI
-- Managed transformation of locally hosted monolithic applications to services model hosted in AWS cloud
+### 💻 System Transformations & Core Capabilities
 
-Please read more at my 🕸 <a href="http://www.guylivne.com" target="_blank">site</a>.
+*   **Architectural Strategy:** Deep expertise in React, Next.js, Micro-Frontends (MFE), and Backend-for-Frontend (BFF) patterns to isolate system blast radiuses and unlock continuous micro-team deployment velocity.
+*   **Enterprise AI Platforms:** Led production integrations of large language models (Azure OpenAI) with massive, structured data layers (Databricks) to build secure chat assistants used safely by over 100K clients.
+*   **Cloud Native Migrations:** Proven track record of spearheading phased, zero-downtime cutovers from legacy server-side systems to distributed, event-driven cloud services (AWS, Azure, Kubernetes, Kafka).
+*   **Product & Business Synergy:** Partnering closely with Product and UX teams to align technical roadmap health directly with business growth, driving measurable 27%+ increases in customer digital engagement.
 
-To reach me, ✉ me at my <a href="mailto:guy@guylivne.com">Email</a>.
+---
+
+### 🛠️ The Technical Ecosystem
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Architecture** | React, TypeScript, Next.js, JavaScript (ES6+), Redux Toolkit, Zustand, Micro-Frontends, Webpack Federation |
+| **Backend & Messaging** | Node.js, .NET (C#), RESTful APIs, GraphQL, Java, Kotlin, Spring Boot, Apache Kafka |
+| **Cloud & Infrastructure** | AWS (Lambda, Fargate, S3, DynamoDB, Route 53), Azure (AKS, Functions, Key Vault), Databricks, Terraform, Kubernetes |
+| **Data & Core Storage** | PostgreSQL, Cosmos DB, DynamoDB, SQL Server, Redis Caching Clusters |
+| **Engineering Governance** | CI/CD (GitHub Actions, Jenkins), Test-Driven Development (TDD), Cypress, Playwright, Jest, ESLint, Chromatic |
+
+---
+
+### 🎨 Beyond the Code
+
+When I'm not configuring distributed architectures or continuous deployment pipelines, I balance life as an avid runner, hiker, scuba diver, and global traveler. 
+
+I am committed to giving back through educational community engagement, spending time volunteering as a math, history, and English tutor to bridge educational gaps for at-risk youth. At home, my partner and I are busy parents to an energetic infant and his older, far hairier sister—Golda, our golden retriever who holds absolute governance over the household.
+
+---
+
+### 👥 Connect & Collaborate
+
+*   🌍 Explore my technical insights and system metrics deep-dives on [guylivne.com](https://guylivne.com)
+*   👔 Let's talk tech leadership and product engineering strategy on [LinkedIn](https://www.linkedin.com/in/guy-livne)
+*   ✉️ Reach out directly at [guylivne5@gmail.com](mailto:guylivne5@gmail.com)
