@@ -15,6 +15,16 @@ Currently, I scale cross-functional engineering teams and pioneer AI-driven web 
 
 ---
 
+### 📰 Recent Technical Insights & Web Architect Deep Dives
+
+<!-- START_SECTION:blogs -->
+*   [How We Increased Digital Engagement by 27 Percent Using a Next.js BFF Architecture](https://guylivne.com/#blog/post-1)
+*   [Practical Guardrails for Integrating GenAI Platforms in Safe Multi Tenant Environments](https://guylivne.com/#blog/post-2)
+*   [Deconstructing the Monolith: Shifting High Volume Core Engines to Event Driven Microservices](https://guylivne.com/#blog/post-3)
+<!-- END_SECTION:blogs -->
+
+---
+
 ### 🛠️ The Technical Ecosystem
 
 | Domain | Technologies & Frameworks |
@@ -40,3 +50,12 @@ I am committed to giving back through educational community engagement, spending
 *   🌍 Explore my technical insights and system metrics deep-dives on [guylivne.com](https://guylivne.com)
 *   👔 Let's talk tech leadership and product engineering strategy on [LinkedIn](https://www.linkedin.com/in/guy-livne)
 *   ✉️ Reach out directly at [guylivne5@gmail.com](mailto:guylivne5@gmail.com)
+
+---
+
+### 📊 My GitHub Ecosystem Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guylivne&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Guy Livne GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guylivne&theme=dark&hide_border=true" alt="Guy Livne Streak Stats" width="48%" />
+</div>
